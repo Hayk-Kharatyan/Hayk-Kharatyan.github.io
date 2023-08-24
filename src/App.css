@@ -1,0 +1,37 @@
+.App {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #e1e1e1;
+  margin: 0 auto;
+  border-radius: 5px;
+  margin-top: 50px;
+  background-color: #1c1c1c;
+}
+input[type="button" i] {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  font-size: 18px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: none;
+  background: #505050;
+  color: white;
+}
+input[type="text" i] {
+  width: calc(100% - 22px);
+  padding: 10px 5px;
+  margin: 5px;
+  font-size: 24px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: right;
+  background-color: #1c1c1c;
+  border: 2px solid white;
+  color: white;
+  outline: nonen;
+}
+
+.btt{
+  background: #ff9500 !important;
+}
