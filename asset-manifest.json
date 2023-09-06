@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Hayk-Kharatyan2/static/css/main.2ca50afb.css",
-    "main.js": "/Hayk-Kharatyan2/static/js/main.0b9443d5.js",
+    "main.css": "/Hayk-Kharatyan2/static/css/main.ad72d7e1.css",
+    "main.js": "/Hayk-Kharatyan2/static/js/main.c7057f13.js",
     "index.html": "/Hayk-Kharatyan2/index.html",
-    "main.2ca50afb.css.map": "/Hayk-Kharatyan2/static/css/main.2ca50afb.css.map",
-    "main.0b9443d5.js.map": "/Hayk-Kharatyan2/static/js/main.0b9443d5.js.map"
+    "main.ad72d7e1.css.map": "/Hayk-Kharatyan2/static/css/main.ad72d7e1.css.map",
+    "main.c7057f13.js.map": "/Hayk-Kharatyan2/static/js/main.c7057f13.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ca50afb.css",
-    "static/js/main.0b9443d5.js"
+    "static/css/main.ad72d7e1.css",
+    "static/js/main.c7057f13.js"
   ]
 }
