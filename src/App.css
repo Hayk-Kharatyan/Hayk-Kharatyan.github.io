@@ -17,6 +17,7 @@ input[type="button" i] {
   border: none;
   background: #505050;
   color: white;
+  
 }
 input[type="text" i] {
   width: calc(100% - 22px);
@@ -29,7 +30,7 @@ input[type="text" i] {
   background-color: #1c1c1c;
   border: 2px solid white;
   color: white;
-  outline: nonen;
+  outline: none;
 }
 
 .btt{

@@ -1,0 +1,13 @@
+.xtwo{
+ 
+}
+
+.xtwo::before{
+    content: "2";
+  display: block;
+    width: 5px;
+    height: 5px;
+    color: white;
+
+    
+}

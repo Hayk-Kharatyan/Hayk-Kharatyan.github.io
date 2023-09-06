@@ -6,6 +6,10 @@ import NumberButton from "./Components/NuberButton";
 import { MyContext } from "./Context";
 import { useState } from "react";
 import Delete from "./Components/Del";
+import Pi from "./Components/Pi";
+import X from "./Components/X";
+import Sqrt from "./Components/Sqrt";
+import E from "./Components/E";
 let arr = [];
 for (let i = 0; i < 10; i++) {
   arr.push(i);
@@ -27,6 +31,10 @@ function App() {
         ))}
         <AC/>
         <Delete/>
+        <Pi value={val}/>
+        <X value={val}/>
+        <Sqrt value={val}/>
+        <E value={val}/>
       </MyContext.Provider>
     </div>
   );

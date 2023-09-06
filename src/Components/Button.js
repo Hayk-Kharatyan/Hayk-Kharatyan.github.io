@@ -36,7 +36,10 @@ const Button = (props) => {
 
 
     return(
+      
    <input key={props.k} className="btt" value={props.value} type="button" onClick={buttonClick}/>
+   
 )
+
     }
 export default Button
