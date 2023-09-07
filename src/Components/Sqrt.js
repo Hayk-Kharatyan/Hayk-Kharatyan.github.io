@@ -9,7 +9,6 @@ export default function Sqrt(props) {
     <input value="√"
      type="button" onClick={function(){
         changeContext.setVal([Math.sqrt(text)]);
-        console.log("armat",Math.sqrt(props.value));
     }}/>
     
   )
